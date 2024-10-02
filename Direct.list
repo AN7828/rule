@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,yangnongchem.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,4bt0.com
 DOMAIN-SUFFIX,game-insight.com
+DOMAIN-SUFFIX,dreame.tech
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-KEYWORD,tracker
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
