@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "btsow.com",
+        "huiasd.com",
+		"qichiyu.com",
+		"v2rayssr.com",
+		"ipwho.is",
+		"ipify.org",
+		"ip.sb",
+		"skk.moe",
+		"weserv.nl",
+		"tmdb.org",
+		"thetvdb.com",
+		"themoviedb.org",
+        "scorchin.com"
+      ]
+    }
+  ]
+}
