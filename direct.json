@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "douyucdn.cn",
+        "douyucdn2.cn",
+		"sinochem.com",
+		"youku.com",
+		"agilent.com",
+		"dyndns.org",
+		"yangnongchem.com",
+		"paypal.com",
+		"game-insight.com",
+		"dreame.tech",
+		"zendesk.com",
+		"logitech.com"
+      ]
+    }
+  ]
+}
