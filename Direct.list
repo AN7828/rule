@@ -17,10 +17,11 @@ DOMAIN-SUFFIX,4bt0.com
 DOMAIN-SUFFIX,game-insight.com
 DOMAIN-SUFFIX,dreame.tech
 DOMAIN-SUFFIX,zendesk.com
-DOMAIN-KEYWORD,tracker
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,quickconnect.to
 
 # 域名关键字匹配
-#DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,tracker
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
